@@ -74,6 +74,9 @@ A curated, categorized list of AI-powered tools across QA, coding, content, vide
 | Descript       | Edit audio + video with transcript  | ⚠️ Limited| [descript.com](https://www.descript.com) |
 | Lumen5         | Blog to video content               | ⚠️ Limited| [lumen5.com](https://lumen5.com) |
 | Animoto        | AI slideshow & promo video maker    | ⚠️ Limited| [animoto.com](https://animoto.com) |
+| KDA Firestarter AI Dance | Photo → 13s 21:9 solo AI dance (unofficial) | ❌ Paid    | [kdafirestarterai.dev](https://kdafirestarterai.dev) |
+| A2O LITE NEON AI Dance | Two photos → 15s neon duo dance             | ❌ Paid    | [a2oliteai.org](https://a2oliteai.org) |
+| dime dime baby ai | Photo → ~5s 9:16 AI dance                   | ❌ Paid    | [dimedimebabyai.dev](https://dimedimebabyai.dev) |
 
 
 ## Design & Creativity
