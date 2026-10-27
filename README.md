@@ -80,9 +80,9 @@ A curated, categorized list of AI-powered tools across QA, coding, content, vide
 | PromptImage | Free AI image & video studio + prompt library | ✅ Free/Freemium | [promptimage.cloud](https://promptimage.cloud) |
 | TeslaWraps | Tesla wrap designer; core editing free | ✅ Free/Freemium | [teslawraps.design](https://teslawraps.design) |
 | GrokVideo Studio | Independent Grok Imagine text/image-to-video | ✅ Free Trial | [grokvideogenerator.dev](https://grokvideogenerator.dev) |
-| Alors On Danse Video Maker | Independent Grok Imagine text/image-to-video | ✅ Free Trial | [alorsondansevideo.com](https://alorsondansevideo.com) |
-| Bad Times AI | Independent Grok Imagine text/image-to-video | ✅ Free Trial | [badtimesai.dev](https://badtimesai.dev) |
-| I Found You in the Crowd AI | Independent Grok Imagine text/image-to-video | ✅ Free Trial | [ifoundyouinthecrowdai.com](https://ifoundyouinthecrowdai.com) |
+| Alors On Danse Video Maker | Independent: two photos → 13s studio dance | ✅ Paid | [alorsondansevideo.com](https://alorsondansevideo.com) |
+| Bad Times AI | Independent AI dance effect: one photo → 14–15s | ✅ Paid from $7.99 | [badtimesai.dev](https://badtimesai.dev) |
+| I Found You in the Crowd AI | Independent AI scene effect: two photos → meeting clip | ✅ Paid from $7.99 | [ifoundyouinthecrowdai.com](https://ifoundyouinthecrowdai.com) |
 
 
 ## Design & Creativity
