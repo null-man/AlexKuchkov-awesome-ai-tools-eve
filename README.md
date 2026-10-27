@@ -77,9 +77,9 @@ A curated, categorized list of AI-powered tools across QA, coding, content, vide
 | KDA Firestarter AI Dance | Photo → 13s 21:9 solo AI dance (unofficial) | ❌ Paid    | [kdafirestarterai.dev](https://kdafirestarterai.dev) |
 | A2O LITE NEON AI Dance | Two photos → 15s neon duo dance             | ❌ Paid    | [a2oliteai.org](https://a2oliteai.org) |
 | dime dime baby ai | Photo → ~5s 9:16 AI dance                   | ❌ Paid    | [dimedimebabyai.dev](https://dimedimebabyai.dev) |
-| [PromptImage](https://promptimage.cloud) | Free AI image & video studio with a prompt library (signup credits, mu |
-| [TeslaWraps](https://teslawraps.design) | Browser Tesla Paint Shop wrap designer — core editing + PNG export fre |
-| [GrokVideo Studio](https://grokvideogenerator.dev) | Independent web app for text/image-to-video via Grok Imagine API (Free |
+| PromptImage | Free AI image & video studio + prompt library | ✅ Free/Freemium | [promptimage.cloud](https://promptimage.cloud) |
+| TeslaWraps | Tesla wrap designer; core editing free | ✅ Free/Freemium | [teslawraps.design](https://teslawraps.design) |
+| GrokVideo Studio | Independent Grok Imagine text/image-to-video | ✅ Free Trial | [grokvideogenerator.dev](https://grokvideogenerator.dev) |
 
 
 ## Design & Creativity
